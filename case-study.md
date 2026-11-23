@@ -1,6 +1,6 @@
-# Introduction
 
-## **The history of printers**
+
+## Introduction: Karol: **The history of printers**
 
 Printers have been around for centuries;
 they first started off as simple mechanisms used to mass print text such as newspapers or books.
