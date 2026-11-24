@@ -167,3 +167,6 @@ Nuclear energy, can be used to generate electricity, but it can aslo cause harm 
 medical purposes, but it can also be exploited to create biological weapons. Humans have the responsibilty to make sure that these technologies
 are developed and used to improve our lives, rather than to cause harm.
 Unfortunately, achieving this for now remains an utopia, as we will neverhave the complete certainty that technological advancement will be used to benefit society.
+
+## Refrences
+
