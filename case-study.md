@@ -85,6 +85,55 @@ Digital printing replaces plates and presses for many more jobs. The main types 
 print straight from a file with no plates or setup. that make short runs, personalizzed mailing, and print-on-demand books economical. Authors can now publish through services like Amazon KDP, where book is printed,
 only when someone orders it, so there is no warehouse of unsold sttock.
 
+## Second Viewpoint Analysis: Stanis part:
+
+To look at printing through a social and political lens, we should ask not only how fast printers became,but who could use them and whose ideas reached the public.The first viewpoint describes printing as a good move towards cheaper knowledge and better individual power. 
+This viewpoint also shows some of the limits of that progress new technology made opportunities, but access did not become the same.
+
+Movable type let printers reuse letters, but a press still needed equipment, materials, skilled workers, and money. 
+Gutenberg’s Bible showed printing’s potential in Europe, yet books did not suddenly become available to everyone. 
+Copies could be made faster than handwritten books , but buying and reading them still depended on income and education. 
+While the first viewpoint mainly focuses on knowledge reaching more people, this one shows that many people were still left out.
+
+The Reformation shows how printing could challenge authority and help powerful groups at the same time. 
+Pamphlets and religious texts helped Martin Luther’s ideas reach much more people,challenging the Church’s influence and power.
+His supporters were not the only ones using print to convince readers. Their opponents and political authorities published messages too. 
+The Oxford Research Encyclopedia describes how rival groups used print to promote their views, while authorities tried to control or respond to what was being spread. 
+The press did not decide which side was right,they just gave groups a stronger way to argue for public support. 
+Print could spread new ideas, but it could also spread propaganda.
+
+Governments and professional groups also tried to control who could publish. 
+In early modern England, the Stationers’ Company helped control the printing trade. Licensing rules could limit what was printed and who was allowed to print it.
+This complicates the idea that each new printing method moved control closer to normal people. Printing made sharing ideas easier, 
+but rulers and established printers could still restrict access. The technology changed how messages travelled. It did not end the struggle over who could publish them.
+
+Printed books made it easier to produce copies and share info over greater distances. 
+Knowledge could spread throughout people with access to handwritten manuscripts. 
+However, publishers still decided what to print and where to sell it. The books that reached readers could shape how they understood events and ideas, while other views remained harder to find. 
+Printing helped standardise language and knowledge, but it was not neutral publishers had control over what was included and who had access to it.
+
+During the 1800s, mechanised presses and continuous paper rolls increased production a lot . By the end of the century, rotary presses could print, cut, and fold tens of thousands of newspapers per hour. 
+More readers could access newspapers, but presses, paper supplies, and distribution networks were expensive. 
+Richer publishers had an advantage, while smaller printers struggled to compete.Faster production also changed printing jobs as machines took over work that had been done by hand. 
+Compared to the first viewpoint’s focus on speed and availability, industrial printing also focused production on businesses that could afford the necessary equipment.
+
+Digital printing and print-on-demand allowed authors to make books without paying for a large print run or storing unsold copies. 
+This gives writers more choice, as the first viewpoint suggests, but printing a book does not guarantee that readers will find it. 
+Authors still need editing and design skills, digital tools, and effective ways to promote and distribute their work. 
+Print-on-demand reduces some costs, but it does not give every writer an equal chance of being noticed or making sales.
+
+There are environmental costs as well. Paper production uses resources through forestry, pulp-making, manufacturing, transport, and disposal. 
+A life-cycle study found that paper production and disposal can add to impacts such as air emissions and energy use. 
+Cheaper printing may lead to higher levels of production and waste. 3d printing can reduce material waste in some situations, but it also uses energy and materials. 
+Researchers see energy use, waste, and air pollution as issues that need ,more study.People also need equipment, design files, materials, and skills to use it well.
+
+Each breakthrough changed who could make copies or objects, but the benefits depended on money, ownership, literacy, skills, distribution, and political freedom. 
+Printing has helped spread valuable ideas, but it has also spread propaganda, faced censorship, favoured well-resourced organisations, and created environmental costs. 
+It has opened new ways to create and communicate, but it has never guaranteed who gets heard, who benefits, or who handles the costs.
+
+
+
+
 ## Ethical Reflection: Ibrahim Part:
 
 There are no doubts that the evolution of printing technologies has brought many advantages in terms of productivity and accessibility
