@@ -24,7 +24,7 @@ press in Germany before this invention books had to be copied out entirely by ha
 making them rare and expensive Gutenberg combined a modified a wine press with metal type piece and oil based ink allowing
 pages to be printed quickly and evenly this made books affordable for the public and boosted literancy arcoss europe because hand coping took long only rich people scholars and church leaders could afford books because Gutenbergs metal letters could be moved around and reduced for different pages printers could make copies much fasterand evenly soon prining presses spread across cities in european and people could read books and news ideas thatwere never available to everyday workers before.
 
-By 1843 people wanted daily newspapers so fastthat old flatbed presses could no longer keep up with the demand of newspapaers
+By 1843 people wanted daily newspapers so fast that old flatbed presses could no longer keep up with the demand of newspapaers
 American inventor Richard March Hoe fixed this problem by inventing the rotary press which wrapped printing plates
 around a rolling cylinder this allowed papers to feed through conintuously at high speeds so the new papers could
 print hunderds of thousands of copies every single day old flat presses had to press down one sheet automatically later on in commercial printing offset lithography also helped by moving ink onto a rubber first before hitting the paper which gave sharper text and pictures for magazines and books.
