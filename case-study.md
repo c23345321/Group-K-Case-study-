@@ -22,24 +22,26 @@ Historical Development of printers:
 The history of printing started in 1440 when Johannes Gutenberg created the machanical movable type
 press in Germany before this invention books had to be copied out entirely by hand line by line
 making them rare and expensive Gutenberg combined a modified a wine press with metal type piece and oil based ink allowing
-pages to be printed quickly and evenly this made books affordable for the public and boosted literancy arcoss europe.
+pages to be printed quickly and evenly this made books affordable for the public and boosted literancy arcoss europe because hand coping took long only rich people scholars and church leaders could afford books because Gutenbergs metal letters could be moved around and reduced for different pages printers could make copies much fasterand evenly soon prining presses spread across cities in european and people could read books and news ideas thatwere never available to everyday workers before.
 
 By 1843 people wanted daily newspapers so fastthat old flatbed presses could no longer keep up with the demand of newspapaers
 American inventor Richard March Hoe fixed this problem by inventing the rotary press which wrapped printing plates
 around a rolling cylinder this allowed papers to feed through conintuously at high speeds so the new papers could
-print hunderds of thousands of copies every single day.
+print hunderds of thousands of copies every single day old flat presses had to press down one sheet automatically later on in commercial printing offset lithography also helped by moving ink onto a rubber first before hitting the paper which gave sharper text and pictures for magazines and books.
 
 When computers first came out scientists needed a way to print digital data onto paper Remington Rand Built the first high
 speed computer line printer in 1953 Universal Automatic Computer (UNIVAC) sysem as computers got smaller over time
-printers followed the same trend. in 1968 japanese maker Seiki Seisakusho built the EP-101 digital printer leading
+printers followed the same trend early line printers spun fast metal drums or chains with letters on them and hit an ink ribbon to print a whole line at once they were huge and loud but they helped banks offices and businesses print bug reports bills and pay records automatically instead of typing everything out by hand.
+
+in 1968 japanese maker Seiki Seisakusho built the EP-101 digital printer leading
 to the Dot matrix printer by centronics in 1970 these machines used tiny metal pins striking an ink ribbon to print
-letters for offices.
+letters for offices the EP-101 was first made as a small digital printer for calculators and helped inspire the epson name later on Dot matrix printers became really popular in offices and shops because they were touch cheap to run and could even print through multi copy carbon forms.
 
 later the international business machines (IBM) launched the dight high speed commercial laser printer in 1976 using static electicitiy
-and toner. in 11984 HP brought quiet inkjet and destop laser prrinting into home with the thinkjet and laserjet.
+and toner. in 1984 HP brought quiet inkjet and destop laser prrinting into home with the thinkjet and laserjet laser printers used a laser beam and static charge to stick fine toner powder onto papers and melt it in with heat which was much quieter and cleaner then noisy pin printers HPs thinkjet and laserjet made home and small office printing much easier and inkjet printers sprayed tiny drops of liquid ink so everyday people could colour pages at home.
 
 eventually printing expamded into making real 3D objects?items chunks hull patented stereolithography in 1986 using uv laser and scott crump
-patented fused deposition modelling in 1989 to build solid 3D items layers by layer.
+patented fused deposition modelling in 1989 to build solid 3D items layers by layer Stereolithography hardered liquid resin layer by layer with UV light while fused depositions modeling melted plastic filament through a hot nozzle to build soild shapes layer by layer from computer model today printers dont jsut sit on a desk with cable many connect over wifi so you can printer straight from a phone or laptop at the same time 3D printing has grown from basic plastic models into a big part of modern manufactacturing used to make custom medical parts plane components design protoypes and even test building structures overall printing went from slow hand copied pages and old wooden presses all the way to fast degital printers and 3D objects built from scratch.
 
 ## First Viewpoint Analysis: Melvin's part:
 
