@@ -149,3 +149,8 @@ Tavani, H.T.(2016) Ethics and technology: Controversies, quaestions, and strateg
 
 Marshall, K.P. (1999) "Has technology introduced new ethical problems? Journal of Business Ethics, 19.1, pp.81-90
 
+ghani:
+Britannica – History of Printing Press (Gutenberg & Rotary Press): https://www.britannica.com/technology/printing-press
+Computer History Museum – Timeline of Computer Printers (UNIVAC, Dot Matrix, Laser & Inkjet): https://www.computerhistory.org/timeline/computers/
+Autodesk – History of 3D Printing (Stereolithography & FDM): https://www.autodesk.com/solutions/3d-printing
+
