@@ -113,3 +113,10 @@ Britannica – History of Printing Press (Gutenberg & Rotary Press): https://www
 Computer History Museum – Timeline of Computer Printers (UNIVAC, Dot Matrix, Laser & Inkjet): https://www.computerhistory.org/timeline/computers/
 Autodesk – History of 3D Printing (Stereolithography & FDM): https://www.autodesk.com/solutions/3d-printing
 
+Stanis:
+)Oxford Research Encyclopedia of Religion. “Printing, Propaganda, and Public Opinion in the Age of Martin Luther.”
+)Oxford Academic. “Understanding Technology Regulation Through History: Insights from the Legal History of the Printing Press and Copyright in Early Modern England.”
+)National Museum of American History. “Printing Machines.”
+)Arroja, J. A., Dias, A. C., & Capela, M. A. P. (2004). “Evaluation of the Environmental Performance of Printing and Writing Paper Using Life Cycle Assessment.” Management of Environmental Quality. https://doi.org/10.1108/14777830410553915
+)Khosravani, M. R., & Reinicke, T. (2020). “On the Environmental Impacts of 3D Printing Technology.” Additive Manufacturing. https://doi.org/10.1016/j.apmt.2020.100689
+
