@@ -117,6 +117,6 @@ Stanis:
 )Oxford Research Encyclopedia of Religion. “Printing, Propaganda, and Public Opinion in the Age of Martin Luther.”
 )Oxford Academic. “Understanding Technology Regulation Through History: Insights from the Legal History of the Printing Press and Copyright in Early Modern England.”
 )National Museum of American History. “Printing Machines.”
-)Arroja, J. A., Dias, A. C., & Capela, M. A. P. (2004). “Evaluation of the Environmental Performance of Printing and Writing Paper Using Life Cycle Assessment.” Management of Environmental Quality. https://doi.org/10.1108/14777830410553915
+)Arroja, J. A., Dias, A. C., & Capela, M. A. P. (2004). “Evaluation of the Environmental Performance of Printing and Writing Paper Using Life Cycle Assessment.” Management of Environmental Quality.https://www.emerald.com/meq/article-abstract/15/5/473/287865/Evaluation-of-the-environmental-performance-of?
 )Khosravani, M. R., & Reinicke, T. (2020). “On the Environmental Impacts of 3D Printing Technology.” Additive Manufacturing. https://doi.org/10.1016/j.apmt.2020.100689
 
