@@ -115,11 +115,11 @@ Autodesk – History of 3D Printing (Stereolithography & FDM): https://www.autod
 
 Stanis:
 
-)Oxford Research Encyclopedia of Religion. “Printing, Propaganda, and Public Opinion in the Age of Martin Luther.”
+)Oxford Research Encyclopedia of Religion. Printing, Propaganda, and Public Opinion in the Age of Martin Luther.
 
-)Oxford Academic. “Understanding Technology Regulation Through History: Insights from the Legal History of the Printing Press and Copyright in Early Modern England.”
+)Oxford Academic. Understanding Technology Regulation Through History: Insights from the Legal History of the Printing Press and Copyright in Early Modern England.
 
-)National Museum of American History. “Printing Machines.”
+)National Museum of American History. Printing Machines.
 
 )Arroja, J. A., Dias, A. C., & Capela, M. A. P. (2004). “Evaluation of the Environmental Performance of Printing and Writing Paper Using Life Cycle Assessment.” Management of Environmental Quality.https://www.emerald.com/meq/article-abstract/15/5/473/287865/Evaluation-of-the-environmental-performance-of?
 
