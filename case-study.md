@@ -114,6 +114,7 @@ Computer History Museum – Timeline of Computer Printers (UNIVAC, Dot Matrix, L
 Autodesk – History of 3D Printing (Stereolithography & FDM): https://www.autodesk.com/solutions/3d-printing
 
 Stanis:
+
 )Oxford Research Encyclopedia of Religion. “Printing, Propaganda, and Public Opinion in the Age of Martin Luther.”
 
 )Oxford Academic. “Understanding Technology Regulation Through History: Insights from the Legal History of the Printing Press and Copyright in Early Modern England.”
