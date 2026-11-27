@@ -115,6 +115,13 @@ Tavani, H.T.(2016) Ethics and technology: Controversies, quaestions, and strateg
 
 Marshall, K.P. (1999) "Has technology introduced new ethical problems? Journal of Business Ethics, 19.1, pp.81-90
 
+Melvin Freddy:
+Eisenstein, E.L (1979), the printing press as an agent of change. Cambridge University press.
+secondly, Febvre, L. and martin, H-J, (1976). the coming of the book: the impact of printing 1450-1800. London: Verso.
+Man, J. (2002). the Gutenberg Revolution. London: Bantam. 
+Pettegree, A. (2010). the book in the Renaissance. Yale University Press.
+Pettegree, A. (2015). Brand Luther:1517, printing and the maing of the reformation. Penguin press. this backs up your Luther and Reformation paragraph.
+
 ghani:
 
 Britannica – History of Printing Press (Gutenberg & Rotary Press): https://www.britannica.com/technology/printing-press
