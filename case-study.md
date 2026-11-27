@@ -125,6 +125,10 @@ Stanis:
 
 )National Museum of American History. Printing Machines.
 
+Karol:
+
+
+
 )Arroja, J. A., Dias, A. C., & Capela, M. A. P. (2004). “Evaluation of the Environmental Performance of Printing and Writing Paper Using Life Cycle Assessment.” Management of Environmental Quality.https://www.emerald.com/meq/article-abstract/15/5/473/287865/Evaluation-of-the-environmental-performance-of?
 
 )Khosravani, M. R., & Reinicke, T. (2020). “On the Environmental Impacts of 3D Printing Technology.” Additive Manufacturing. https://www.sciencedirect.com/science/article/abs/pii/S2352940720301360?via%3Dihub
